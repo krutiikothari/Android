@@ -141,7 +141,8 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@color/colorAccent"
-            android:text="DELETE"
-            android:textColor="@android:color/white" />
+            android:text="NEXT"
+            android:textColor="@android:color/white"
+            android:onClick="nextpg"/>
     </LinearLayout>
 </LinearLayout>
